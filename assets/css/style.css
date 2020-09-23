@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+
+header,
+section,
+aside,
+footer {
+    background-color: aqua;
+    
+}
